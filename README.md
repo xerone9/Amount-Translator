@@ -24,6 +24,10 @@ Test Mode:
 
 Open Test Mode Folder and Run Exceuctable File To test Quick Translations. It will open a windows Command Prompt where you can easily enter values and see the translations
 
+Live with django:
+
+Visit this website: https://django.rubick.org/amount_translator/
+
 
 Changelog:
 
