@@ -9,7 +9,9 @@ Download and install the application. Create an excel file having values you wan
 Double Click on the executable file and add that excel file in the software and click translate. It will automatically add the translated values on the very next cell of the values entered.
 
 [![Alt text](https://img.youtube.com/vi/JZNxMX-ydsY/0.jpg)](https://www.youtube.com/watch?v=JZNxMX-ydsY)
-Click On Picture To See Video
+
+_Click On Picture To See Video_
+
 
 How It Works
 
