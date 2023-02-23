@@ -1,5 +1,18 @@
 # Amount-Translator
 
+Amount To Excel File
+
+How To Use
+
+
+Download the excel sheet from the link below. Thats a macro file. All you need to do is enter the values any where you want in the “AMOUNT TO WORD” sheet and then write “=usman” in the very next cell to the right side and it will convert the value into English. You can not save the sheet so once the values are converted copy them to another sheet
+
+Credit: The formula is written by “Mr. Pete M”. I just saved the formula in the excel sheet.
+
+[![Alt text](https://img.youtube.com/vi/JZNxMX-ydsY/0.jpg)](https://www.youtube.com/watch?v=JZNxMX-ydsY)
+
+_Click On Picture To See Video_
+
 Amount To Words Windows Application
 
 How To Use
