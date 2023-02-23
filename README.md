@@ -9,7 +9,7 @@ Download the excel sheet from the link below. Thats a macro file. All you need t
 
 Credit: The formula is written by “Mr. Pete M”. I just saved the formula in the excel sheet.
 
-[![Alt text]([![Alt text](https://github.com/xerone9/Amount-Translator/blob/main/Amount_Translator_Excel.png)](https://www.youtube.com/watch?v=gkY7I-vKtzw))]
+([![Alt text](https://github.com/xerone9/Amount-Translator/blob/main/Amount_Translator_Excel.png)](https://www.youtube.com/watch?v=gkY7I-vKtzw))]
 
 _Click On Picture To See Video_
 
